@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crearIssue</key>
+	<dict>
+		<key>url</key>
+		<string>https://api.thecatapi.com/v1/images/search?limit=20&amp;breed_ids=beng&amp;api_key=live_UbDIEWjTRDfcr31qZaVWuIpimFL7bSAJYXXSGwCfUtvJmQkWxNZjqgaoUi63Ywkm</string>
+		<key>x-api-key</key>
+		<string>live_UbDIEWjTRDfcr31qZaVWuIpimFL7bSAJYXXSGwCfUtvJmQkWxNZjqgaoUi63Ywkm</string>
+	</dict>
+</dict>
+</plist>

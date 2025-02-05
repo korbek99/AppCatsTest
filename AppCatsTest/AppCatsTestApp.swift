@@ -13,7 +13,8 @@ struct AppCatsTestApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
+            PetsContentView()
                 .environment(\.managedObjectContext, persistenceController.container.viewContext)
         }
     }
